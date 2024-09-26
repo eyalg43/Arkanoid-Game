@@ -3,7 +3,6 @@ import Game.*;
 import biuoop.GUI;
 import biuoop.KeyboardSensor;
 import biuoop.Sleeper;
-
 import java.util.ArrayList;
 import java.util.List;
 
