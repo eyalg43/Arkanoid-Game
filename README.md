@@ -14,6 +14,8 @@ A warmup level with one single block and one ball.
 
 ### **Level 2**
 More blocks, more challenge.
+![Level 1](pictures/arkanoid-level2.png)
 
 ### **Level 3**
 The hardest level with many blocks and fast balls.
+![Level 1](pictures/arkanoid-level3.png)
