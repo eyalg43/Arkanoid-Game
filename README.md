@@ -10,12 +10,15 @@ This Arkanoid-like game consists of three levels, each one progressively harder 
 
 ### **Level 1**
 A warmup level with one single block and one ball.
+
 ![Level 1](pictures/arkanoid-level1.png)
 
 ### **Level 2**
-More blocks, more challenge.
+You have a huge paddle with many balls.
+
 ![Level 2](pictures/arkanoid-level2.png)
 
 ### **Level 3**
-The hardest level with many blocks and fast balls.
+You have 2 balls and a small paddle, try and beat! (It won't be easy)
+
 ![Level 3](pictures/arkanoid-level3.png)
